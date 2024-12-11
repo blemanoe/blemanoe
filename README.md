@@ -4,8 +4,7 @@
 **blemanoe/blemanoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
-- 🔭 Am currently a level 300 student of the University of Ghana studying Bsc Information Technology
+- 🔭 Currently a student of the University of Ghana studying Bsc Information Technology
 - 📫 My area of interest lies in Open Source Technologies, Statistics and Data Analysis.
 - 🌱 I am a Microsoft Certified Power BI Analyst
 - 🔭 I’m currently working on getting my Undergraduate Degree
